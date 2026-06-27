@@ -1,0 +1,15 @@
+entity.eoa:seller.name=Seller
+item.spawn_egg.entity.eoa:seller.name=Spawn Seller
+entity.eoa:zombie_toy.name=Zombie Toy
+item.spawn_egg.entity.eoa:zombie_toy.name=Spawn Zombie Toy
+entity.eoa:sheep_toy.name=Sheep Toy
+item.spawn_egg.entity.eoa:sheep_toy.name=Spawn Sheep Toy
+entity.eoa:witch_toy.name=Witch Toy
+item.spawn_egg.entity.eoa:witch_toy.name=Spawn Witch Toy
+entity.eoa:enderman_toy.name=Enderman Toy
+item.spawn_egg.entity.eoa:enderman_toy.name=Spawn Enderman Toy
+entity.eoa:creeper_toy.name=Creeper Toy
+item.spawn_egg.entity.eoa:creeper_toy.name=Spawn Creeper Toy
+entity.eoa:cow_toy.name=Cow Toy
+item.spawn_egg.entity.eoa:cow_toy.name=Spawn Cow Toy
+tile.eoa:toy_box.name=Toy Box

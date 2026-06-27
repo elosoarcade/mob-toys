@@ -1,0 +1,37 @@
+{
+  "format_version": "1.16.0",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "eoa:witch_toy",
+      "is_spawnable": true,
+      "is_summonable": true
+    },
+    "components": {
+      "minecraft:type_family": {
+        "family": ["toy", "mob"]
+      },
+      "minecraft:health": {
+        "value": 1,
+        "max": 1
+      },
+      "minecraft:scale": {
+        "value": 0.25
+      },
+      "minecraft:collision_box": {
+        "width": 0.2,
+        "height": 0.475
+      },
+      "minecraft:experience_reward": {
+        "on_death": 0
+      },
+      "minecraft:loot": {
+        "table": "loot_tables/entities/witch_toy.json"
+      },
+      "minecraft:physics": {},
+      "minecraft:pushable": {
+        "is_pushable": true,
+        "is_pushable_by_piston": true
+      }
+    }
+  }
+}

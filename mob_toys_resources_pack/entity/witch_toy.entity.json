@@ -1,0 +1,39 @@
+{
+	"format_version": "1.8.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "eoa:witch_toy",
+			"min_engine_version": "1.8.0",
+			"materials": {
+				"default": "witch"
+			},
+			"textures": {
+				"default": "textures/entity/witch_toy"
+			},
+			"geometry": {
+				"default": "geometry.witch_toy"
+			},
+			"scripts": {
+				"scale": "0.9375"
+			},
+			"animations": {
+				"villager_general": "animation.witch_toy.villager_general",
+				"look_at_target": "animation.common.look_at_target",
+				"move": "animation.witch_toy.move",
+				"general": "animation.witch_toy.general"
+			},
+			"animation_controllers": [
+				{
+					"general": "controller.animation.witch.general"
+				},
+				{
+					"move": "controller.animation.villager.move"
+				}
+			],
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"texture": "witch_toy_spawn_egg"
+			}
+		}
+	}
+}

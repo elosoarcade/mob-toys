@@ -1,0 +1,25 @@
+{
+	"texture_data": {
+		"cow_toy_spawn_egg": {
+			"textures": ["textures/items/cow_toy_spawn_egg"]
+		},
+		"creeper_toy_spawn_egg": {
+			"textures": ["textures/items/creeper_toy_spawn_egg"]
+		},
+		"enderman_toy_spawn_egg": {
+			"textures": ["textures/items/enderman_toy_spawn_egg"]
+		},
+		"zombie_toy_spawn_egg": {
+			"textures": ["textures/items/zombie_toy_spawn_egg"]
+		},
+		"witch_toy_spawn_egg": {
+			"textures": ["textures/items/witch_toy_spawn_egg"]
+		},
+		"sheep_toy_spawn_egg": {
+			"textures": ["textures/items/sheep_toy_spawn_egg"]
+		},
+		"seller_spawn_egg": {
+			"textures": ["textures/items/seller_spawn_egg"]
+		}		
+	}
+}

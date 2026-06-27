@@ -1,0 +1,30 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Mob Toys",
+		"description": "Mob Toys Behavior Pack",
+		"uuid": "ce9c713d-5dcf-06f6-edda-3068ce4b441e",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["El Oso Arcade"],
+		"license": "CC BY-NC-ND 4.0 - Mob Toys MCBE Add-on",
+		"product_type": "addon",
+		"url": "https://github.com/elosoarcade/mob-toys"
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"version": [1, 0, 0],
+			"uuid": "a40da8b3-4a53-d717-616b-29ceae113b27",
+			"type": "data"
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "9d046bec-edbe-959c-6955-e2354a3f3017",
+			"version": [1, 0, 0]
+		}
+	]
+}

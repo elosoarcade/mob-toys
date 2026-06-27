@@ -1,0 +1,15 @@
+entity.eoa:seller.name=Vendedor
+item.spawn_egg.entity.eoa:seller.name=Huevo generador de vendedor
+entity.eoa:zombie_toy.name=Zombi de juguete
+item.spawn_egg.entity.eoa:zombie_toy.name=Huevo generador de zombi de juguete
+entity.eoa:sheep_toy.name=Oveja de juguete
+item.spawn_egg.entity.eoa:sheep_toy.name=Huevo generador de oveja de juguete
+entity.eoa:witch_toy.name=Bruja de juguete
+item.spawn_egg.entity.eoa:witch_toy.name=Huevo generador de bruja de juguete
+entity.eoa:enderman_toy.name=Enderman de juguete
+item.spawn_egg.entity.eoa:enderman_toy.name=Huevo generador de enderman de juguete
+entity.eoa:creeper_toy.name=Creeper de juguete
+item.spawn_egg.entity.eoa:creeper_toy.name=Huevo generador de creeper de juguete
+entity.eoa:cow_toy.name=Vaca de juguete
+item.spawn_egg.entity.eoa:cow_toy.name=Huevo generador de vaca de juguete
+tile.eoa:toy_box.name=Caja de juguetes

@@ -1,0 +1,24 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Mob Toys",
+		"description": "Mob Toys Resource Pack",
+		"uuid": "9d046bec-edbe-959c-6955-e2354a3f3017",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["El Oso Arcade"],
+		"license": "CC BY-NC-ND 4.0 - Mob Toys MCBE Add-on",
+		"product_type": "addon",
+		"url": "https://github.com/elosoarcade/mob-toys"
+	},
+	"modules": [
+		{
+			"description": "Mob Toys",
+			"type": "resources",
+			"uuid": "c5d519f7-2d6d-6d4e-35bb-9967a72a1c2e",
+			"version": [1, 0, 0]
+		}
+	]
+}

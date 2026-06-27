@@ -1,0 +1,31 @@
+{
+	"format_version": "1.21.100",
+	"minecraft:block": {
+		"description": {
+			"identifier": "eoa:toy_box",
+			"menu_category": {
+				"category": "items"
+			}
+		},
+		"components": {
+			"minecraft:collision_box": true,
+			"minecraft:selection_box": true,
+			"minecraft:destructible_by_mining": {
+				"seconds_to_destroy": 0.4
+			},
+			"minecraft:destructible_by_explosion": false,
+			"minecraft:geometry": "geometry.toy_box",
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "toy_box",
+					"render_method": "alpha_test"
+				}
+			},
+			"minecraft:light_emission": 5,
+			"minecraft:map_color": "#7d7d7d",
+			"tag:minecraft:is_pickaxe_item_destructible": {},
+			"tag:minecraft:gold_tier_destructible": {},
+			"minecraft:loot": "loot_tables/blocks/toy_box.json"
+		}
+	}
+}
