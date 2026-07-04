@@ -7,4 +7,4 @@ In this first edition, there are six figures available: Cow, Zombie, Sheep, Ende
 
 This addon is optimized to run effectively on Realms and dedicated servers with minimal hardware resource consumption and its available in english and español. 🇬🇧 🇲🇽
 
-<img width="1200" height="675" alt="toys-cover_20260626_180615_0000" src="https://github.com/user-attachments/assets/7d0f64db-e1f8-44d9-9bf7-0604c2e47ace" />
+<img width="1200" height="675" alt="toys-cover_20260703_222655_0000" src="https://github.com/user-attachments/assets/7586a145-ac57-45a9-a80b-3b2185572e3c" />
