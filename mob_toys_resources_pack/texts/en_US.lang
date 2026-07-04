@@ -12,4 +12,6 @@ entity.eoa:creeper_toy.name=Creeper Toy
 item.spawn_egg.entity.eoa:creeper_toy.name=Spawn Creeper Toy
 entity.eoa:cow_toy.name=Cow Toy
 item.spawn_egg.entity.eoa:cow_toy.name=Spawn Cow Toy
+entity.eoa:wolf_toy.name=Wolf Toy
+item.spawn_egg.entity.eoa:wolf_toy.name=Spawn Wolf Toy
 tile.eoa:toy_box.name=Toy Box

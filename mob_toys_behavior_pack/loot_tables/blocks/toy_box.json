@@ -6,7 +6,7 @@
         {
           "type": "item",
           "name": "eoa:zombie_toy_spawn_egg",
-          "weight": 40,
+          "weight": 39,
           "functions": [
             {
               "function": "set_count",
@@ -25,6 +25,17 @@
             }
           ]
         },
+        {
+          "type": "item",
+          "name": "eoa:wolf_toy_spawn_egg",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": 1
+            }
+          ]
+        },        
         {
           "type": "item",
           "name": "eoa:cow_toy_spawn_egg",

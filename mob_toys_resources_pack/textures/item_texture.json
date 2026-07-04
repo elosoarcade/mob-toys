@@ -18,6 +18,9 @@
 		"sheep_toy_spawn_egg": {
 			"textures": ["textures/items/sheep_toy_spawn_egg"]
 		},
+		"wolf_toy_spawn_egg": {
+			"textures": ["textures/items/wolf_toy_spawn_egg"]
+		},		
 		"seller_spawn_egg": {
 			"textures": ["textures/items/seller_spawn_egg"]
 		}		
