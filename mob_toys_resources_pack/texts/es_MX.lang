@@ -14,4 +14,6 @@ entity.eoa:cow_toy.name=Vaca de juguete
 item.spawn_egg.entity.eoa:cow_toy.name=Huevo generador de vaca de juguete
 entity.eoa:wolf_toy.name=Lobo de juguete
 item.spawn_egg.entity.eoa:wolf_toy.name=Huevo generador de lobo de juguete
+entity.eoa:pig_toy.name=Puerco de juguete
+item.spawn_egg.entity.eoa:pig_toy.name=Huevo generador de puerco de juguete
 tile.eoa:toy_box.name=Caja de juguetes
