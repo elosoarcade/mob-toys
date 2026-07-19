@@ -24,6 +24,9 @@
 		"pig_toy_spawn_egg": {
 			"textures": ["textures/items/pig_toy_spawn_egg"]
 		},		
+		"polar_bear_toy_spawn_egg": {
+			"textures": ["textures/items/polar_bear_toy_spawn_egg"]
+		},				
 		"seller_spawn_egg": {
 			"textures": ["textures/items/seller_spawn_egg"]
 		}		

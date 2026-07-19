@@ -16,4 +16,6 @@ entity.eoa:wolf_toy.name=Wolf Toy
 item.spawn_egg.entity.eoa:wolf_toy.name=Spawn Wolf Toy
 entity.eoa:pig_toy.name=Pig Toy
 item.spawn_egg.entity.eoa:pig_toy.name=Spawn Pig Toy
+entity.eoa:polar_bear_toy.name=Polar Bear Toy
+item.spawn_egg.entity.eoa:polar_bear_toy.name=Spawn Polar Bear Toy
 tile.eoa:toy_box.name=Toy Box
