@@ -7,7 +7,7 @@
         {
           "type": "item",
           "name": "eoa:zombie_toy_spawn_egg",
-          "weight": 34
+          "weight": 30
         },
         {
           "type": "item",
@@ -37,18 +37,23 @@
         {
           "type": "item",
           "name": "eoa:witch_toy_spawn_egg",
-          "weight": 3
+          "weight": 2
         },
         {
           "type": "item",
           "name": "eoa:creeper_toy_spawn_egg",
-          "weight": 1
+          "weight": 2
         },
         {
           "type": "item",
           "name": "eoa:polar_bear_toy_spawn_egg",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "eoa:goat_toy_spawn_egg",
           "weight": 1
-        }        
+        }                
       ]
     }
   ]
