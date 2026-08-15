@@ -12,7 +12,7 @@
         {
           "type": "item",
           "name": "eoa:cow_toy_spawn_egg",
-          "weight": 30
+          "weight": 25
         },
         {
           "type": "item",
@@ -53,7 +53,12 @@
           "type": "item",
           "name": "eoa:goat_toy_spawn_egg",
           "weight": 1
-        }                
+        },
+        {
+          "type": "item",
+          "name": "eoa:skeleton_toy_spawn_egg",
+          "weight": 5
+        }           
       ]
     }
   ]

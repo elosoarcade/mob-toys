@@ -20,4 +20,6 @@ entity.eoa:polar_bear_toy.name=Oso polar de juguete
 item.spawn_egg.entity.eoa:polar_bear_toy.name=Huevo generador de oso polar de juguete
 entity.eoa:goat_toy.name=Cabra de juguete
 item.spawn_egg.entity.eoa:goat_toy.name=Huevo generador de cabra de juguete
+entity.eoa:skeleton_toy.name=Esqueleto de juguete
+item.spawn_egg.entity.eoa:skeleton_toy.name=Huevo generador de esqueleto de juguete
 tile.eoa:toy_box.name=Caja de juguetes

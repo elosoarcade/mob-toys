@@ -30,6 +30,9 @@
 		"goat_toy_spawn_egg": {
 			"textures": ["textures/items/goat_toy_spawn_egg"]
 		},    
+		"skeleton_toy_spawn_egg": {
+			"textures": ["textures/items/skeleton_toy_spawn_egg"]
+		},       
 		"seller_spawn_egg": {
 			"textures": ["textures/items/seller_spawn_egg"]
 		}		
