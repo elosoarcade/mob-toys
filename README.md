@@ -3,8 +3,8 @@
 
 The Toy Box can only be opened with a golden pickaxe and will randomly drop one of the toys. Some, like the Zombie, are much more common, while the Polar Bear and the Goat are the rarest.
 
-There are ten figures available: Cow, Zombie, Sheep, Enderman, Witch, Creeper, Wolf, Pig, Polar Bear and Goat. More figures will be added in future updates.
+There are ten figures available: Cow, Zombie, Sheep, Enderman, Witch, Creeper, Wolf, Pig, Polar Bear, Goat and Skeleton. More figures will be added in future updates.
 
 _This addon is optimized to run effectively on Realms and dedicated servers with minimal hardware resource consumption and its available in english and español._ 🇬🇧 🇲🇽
 
-<img width="1200" height="675" alt="toys-cover_20260731_183358_0000" src="https://github.com/user-attachments/assets/ea750f72-070d-4991-bba8-c1e2f1e301df" />
+<img width="1200" height="675" alt="toys-cover_20260814_211742_0000" src="https://github.com/user-attachments/assets/c49d433e-b5c8-47b2-b1ce-14ee420b103a" />
