@@ -32,7 +32,13 @@
 		},    
 		"skeleton_toy_spawn_egg": {
 			"textures": ["textures/items/skeleton_toy_spawn_egg"]
-		},       
+		},
+		"creeper_dungeons_toy_spawn_egg": {
+			"textures": ["textures/items/creeper_dungeons_toy_spawn_egg"]
+		},
+		"creeper_shine_toy_spawn_egg": {
+			"textures": ["textures/items/creeper_shine_toy_spawn_egg"]
+		},    
 		"seller_spawn_egg": {
 			"textures": ["textures/items/seller_spawn_egg"]
 		}		

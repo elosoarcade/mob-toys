@@ -57,8 +57,18 @@
         {
           "type": "item",
           "name": "eoa:skeleton_toy_spawn_egg",
-          "weight": 5
-        }           
+          "weight": 3
+        },
+        {
+          "type": "item",
+          "name": "eoa:creeper_dungeons_toy_spawn_egg",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "eoa:creeper_shine_toy_spawn_egg",
+          "weight": 1
+        }        
       ]
     }
   ]
