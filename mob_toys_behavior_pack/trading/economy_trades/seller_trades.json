@@ -518,6 +518,22 @@
               ],
               "max_uses": 12,
               "reward_exp": true
+            },
+            {
+              "wants": [
+                {
+                  "item": "minecraft:emerald",
+                  "quantity": 64
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:netherite_upgrade_smithing_template",
+                  "quantity": 1
+                }
+              ],
+              "max_uses": 1,
+              "reward_exp": true
             }
           ]
         }

@@ -7,7 +7,7 @@
         {
           "type": "item",
           "name": "eoa:zombie_toy_spawn_egg",
-          "weight": 30
+          "weight": 25
         },
         {
           "type": "item",
@@ -68,7 +68,12 @@
           "type": "item",
           "name": "eoa:creeper_shine_toy_spawn_egg",
           "weight": 1
-        }        
+        },
+        {
+          "type": "item",
+          "name": "eoa:strider_toy_spawn_egg",
+          "weight": 5
+        }                
       ]
     }
   ]

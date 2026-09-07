@@ -26,4 +26,6 @@ entity.eoa:creeper_dungeons_toy.name=Creeper de Dungeons de juguete
 item.spawn_egg.entity.eoa:creeper_dungeons_toy.name=Huevo generador de Creeper de Dungeons de juguete
 entity.eoa:creeper_shine_toy.name=Creeper fluorescente de juguete
 item.spawn_egg.entity.eoa:creeper_shine_toy.name=Huevo generador de Creeper fluorescente de juguete
-tile.eoa:toy_box.name=Caja de juguetes
+entity.eoa:strider_toy.name=Lavagante de juguete
+item.spawn_egg.entity.eoa:strider_toy.name=Huevo generador de lavagante de juguete
+tile.eoa:toy_box.name=Caja de 

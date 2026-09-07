@@ -1,0 +1,39 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "eoa:strider_toy",
+			"materials": {
+				"default": "strider"
+			},
+			"textures": {
+				"default": "textures/entity/strider_toy",
+				"saddled": "textures/entity/strider_toy",
+				"suffocated": "textures/entity/strider_toy",
+				"suffocated_saddled": "textures/entity/strider_toy"
+			},
+			"geometry": {
+				"default": "geometry.strider_toy"
+			},
+			"spawn_egg": {
+				"texture": "strider_toy_spawn_egg"
+			},
+			"scripts": {
+				"pre_animation": [
+					"variable.animation_speed = Math.min(query.modified_move_speed, 0.25);",
+					"variable.speed = 85.9437;",
+					"variable.bristle_flow=Math.cos(query.modified_distance_moved * variable.speed + 180) * variable.animation_speed;",
+					"variable.bristle_range_mod=1;",
+					"variable.bristle_speed_mod=1;"
+				],
+				"animate": ["look_at_target", "walk", "bristle_flow"]
+			},
+			"animations": {
+				"look_at_target": "animation.strider_toy.look_at_target.default",
+				"walk": "animation.strider_toy.walk",
+				"bristle_flow": "animation.strider_toy.bristle_flow"
+			},
+			"render_controllers": ["controller.render.strider"]
+		}
+	}
+}
