@@ -41,6 +41,9 @@
 		},
 		"strider_toy_spawn_egg": {
 			"textures": ["textures/items/strider_toy_spawn_egg"]
+		},
+		"turtle_toy_spawn_egg": {
+			"textures": ["textures/items/turtle_toy_spawn_egg"]
 		},    
 		"seller_spawn_egg": {
 			"textures": ["textures/items/seller_spawn_egg"]

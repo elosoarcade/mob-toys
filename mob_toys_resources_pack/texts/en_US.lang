@@ -28,4 +28,6 @@ entity.eoa:creeper_shine_toy.name=Glow-in-the-Dark Creeper Toy
 item.spawn_egg.entity.eoa:creeper_shine_toy.name=Spawn Glow-in-the-Dark Creeper Toy
 entity.eoa:strider_toy.name=Strider Toy
 item.spawn_egg.entity.eoa:strider_toy.name=Spawn Strider Toy
+entity.eoa:turtle_toy.name=Turtle Toy
+item.spawn_egg.entity.eoa:turtle_toy.name=Spawn Turtle Toy
 tile.eoa:toy_box.name=Toy Box

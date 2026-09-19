@@ -12,7 +12,7 @@
         {
           "type": "item",
           "name": "eoa:cow_toy_spawn_egg",
-          "weight": 25
+          "weight": 23
         },
         {
           "type": "item",
@@ -73,7 +73,12 @@
           "type": "item",
           "name": "eoa:strider_toy_spawn_egg",
           "weight": 5
-        }                
+        },
+        {
+          "type": "item",
+          "name": "eoa:turtle_toy_spawn_egg",
+          "weight": 2
+        }              
       ]
     }
   ]

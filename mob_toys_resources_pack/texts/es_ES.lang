@@ -28,4 +28,6 @@ entity.eoa:creeper_shine_toy.name=Creeper fluorescente de juguete
 item.spawn_egg.entity.eoa:creeper_shine_toy.name=Huevo generador de Creeper fluorescente de juguete
 entity.eoa:strider_toy.name=Lavagante de juguete
 item.spawn_egg.entity.eoa:strider_toy.name=Huevo generador de lavagante de juguete
-tile.eoa:toy_box.name=Caja de 
+entity.eoa:turtle_toy.name=Tortuga de juguete
+item.spawn_egg.entity.eoa:turtle_toy.name=Huevo generador de tortuga de juguete
+tile.eoa:toy_box.name=Caja de juguetes
