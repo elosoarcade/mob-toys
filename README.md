@@ -3,8 +3,10 @@
 
 The Toy Box can only be opened with a golden pickaxe and will randomly drop one of the toys. Some, like the Zombie, are much more common, while the Glow-in-the-Dark Creeper and the Goat are the rarest.
 
-There are a lot of figures available: Cow, Zombie, Sheep, Enderman, Witch, Creeper, Wolf, Pig, Polar Bear, Goat, Skeleton, Dungeons Creeper, Glow-in-the-Dark Creeper and Strider. More figures will be added in future updates.
+There are a lot of figures available: Cow, Zombie, Sheep, Enderman, Witch, Creeper, Wolf, Pig, Polar Bear, Goat, Skeleton, Dungeons Creeper, Glow-in-the-Dark Creeper, Strider and Turtle. More figures will be added in future updates.
 
 _This addon is optimized to run effectively on Realms and dedicated servers with minimal hardware resource consumption and its available in english and español._ 🇬🇧 🇲🇽
 
-<img width="1200" height="675" alt="toys-cover_20260907_164844_0000" src="https://github.com/user-attachments/assets/24f70e25-e487-4b41-b9fb-847a2a24c9b0" />
+**This work is licensed under CC BY-NC-ND 4.0.**
+
+<img width="1200" height="675" alt="toys-cover_20260918_230238_0000" src="https://github.com/user-attachments/assets/efefa156-8658-491f-998a-05d739c0960b" />
