@@ -30,4 +30,6 @@ entity.eoa:strider_toy.name=Strider Toy
 item.spawn_egg.entity.eoa:strider_toy.name=Spawn Strider Toy
 entity.eoa:turtle_toy.name=Turtle Toy
 item.spawn_egg.entity.eoa:turtle_toy.name=Spawn Turtle Toy
+entity.eoa:iron_golem_toy.name=Iron Golem Toy
+item.spawn_egg.entity.eoa:iron_golem_toy.name=Spawn Iron Golem Toy
 tile.eoa:toy_box.name=Toy Box

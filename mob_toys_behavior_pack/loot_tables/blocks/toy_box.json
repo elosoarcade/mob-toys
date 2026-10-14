@@ -22,7 +22,7 @@
         {
           "type": "item",
           "name": "eoa:enderman_toy_spawn_egg",
-          "weight": 5
+          "weight": 4
         },
         {
           "type": "item",
@@ -74,6 +74,11 @@
           "name": "eoa:strider_toy_spawn_egg",
           "weight": 5
         },
+        {
+          "type": "item",
+          "name": "eoa:iron_golem_toy_spawn_egg",
+          "weight": 1
+        },        
         {
           "type": "item",
           "name": "eoa:turtle_toy_spawn_egg",

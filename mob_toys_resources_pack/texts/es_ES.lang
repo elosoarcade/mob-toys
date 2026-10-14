@@ -30,4 +30,6 @@ entity.eoa:strider_toy.name=Lavagante de juguete
 item.spawn_egg.entity.eoa:strider_toy.name=Huevo generador de lavagante de juguete
 entity.eoa:turtle_toy.name=Tortuga de juguete
 item.spawn_egg.entity.eoa:turtle_toy.name=Huevo generador de tortuga de juguete
+entity.eoa:iron_golem_toy.name=Gólem de hierro de juguete
+item.spawn_egg.entity.eoa:iron_golem_toy.name=Huevo generador de Gólem de hierro de juguete
 tile.eoa:toy_box.name=Caja de juguetes

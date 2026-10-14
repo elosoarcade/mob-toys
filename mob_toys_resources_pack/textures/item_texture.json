@@ -44,7 +44,10 @@
 		},
 		"turtle_toy_spawn_egg": {
 			"textures": ["textures/items/turtle_toy_spawn_egg"]
-		},    
+		},
+		"iron_golem_toy_spawn_egg": {
+			"textures": ["textures/items/iron_golem_toy_spawn_egg"]
+		},        
 		"seller_spawn_egg": {
 			"textures": ["textures/items/seller_spawn_egg"]
 		}		
